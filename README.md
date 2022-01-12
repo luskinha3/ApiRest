@@ -90,7 +90,7 @@ Os EndPoints se encontram na classe controlador, porem a realizão das ações s
 
 
 Observações:
-* ConsumindoWS: é um projeto java para testar o consumo do webService utilizando um metodo Get e Post. A classe HttpExemplo contem um exemplo de teste.
+* ConsumindoWS: é uma classe java para testar o consumo do webService utilizando um metodo Get e Post. (necessita da biblioteca GSON)
 * Banco utilizado para criar aplicação: Mysql
 * Aplicação feita em localHost, então o banco deve ser criado
 * Folha para criação do banco e tabelas na raíz do projeto ("sql_prova");
